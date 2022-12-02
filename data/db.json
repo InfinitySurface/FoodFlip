@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "image": "../public/images/spaghett.jpeg",
+      "title": "Spaghetti & Meatballs",
+      "time": "60",
+      "description": "Easy for a busy workday and a family favorite.",
+      "ingredient": "Spaghetti",
+      "directions": "Cook",
+      "id": 6
+    },
+    {
+      "image": "",
+      "title": "Roasted Turkey Breast",
+      "time": "140",
+      "description": "Yields the most tender, juicy meat with the crispiest skin.",
+      "ingredient": "Turkey",
+      "directions": "Cook",
+      "id": 8
+    },
+    {
+      "image": "C:\\fakepath\\bkg.png",
+      "title": "jkjnnk",
+      "time": "8",
+      "description": "nkmjn",
+      "ingredient": "jnjl",
+      "directions": "lkjlk",
+      "id": 9
+    }
+  ]
+}
