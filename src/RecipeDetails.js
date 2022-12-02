@@ -23,7 +23,7 @@ const RecipeDetails = () => {
             {isPending && <div>Loading...</div>}
             {error && <div>{error}</div>}
          
-     
+            <img id="target" src={this.state.image}/>
             <img src={require('./images/spaghett.jpeg')} alt="" height="200px"></img>
         
            

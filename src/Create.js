@@ -56,7 +56,8 @@ const Create = () => {
                     id="image-button"
                     accept="image/*"
                     value={image}
-                    onChange={(e) => setImage(e.target.value)}
+                    onChange={(e) => setImage(e.target.value)
+                    }
                 />
                
 
