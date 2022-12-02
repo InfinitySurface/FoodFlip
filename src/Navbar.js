@@ -1,25 +1,15 @@
 
 import { Link } from 'react-router-dom';
-import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/Button';
 
 const Navbar = () => {
     return ( 
         <nav className="navbar">
-            <h1>Food<b>Flip</b></h1>
-            <a>
-                <Form.Control type="search" placeholder="Searc for a recipe..." aria-label="Search"/>
-            </a>
-            <Button variant="outline-success">Search</Button>
+            <h1>React Blog App</h1>
             <div className="links">
                 <Link to="/">Home</Link>
-                <Link to="/">Contact</Link>
-                <Link to="/">Login</Link>
-                <Link to="/create">Add Recipe</Link>
+                <Link to="/create">Create Blog</Link>
             </div>
         </nav>
-
-        
      );
 }
  
