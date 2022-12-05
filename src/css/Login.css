@@ -1,0 +1,29 @@
+
+.login-container{
+    border: 1px solid #d8dce0;
+    border-radius: 4px;
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    display: flex;
+}
+
+.login-left{
+    height: auto;
+    width: 50%;
+    
+    align-content: center;
+}
+.login-left form{
+    display: flex;
+    flex-direction: column;
+    width:70%;
+}
+
+.login-right{
+    background-color: #B2AC88;
+    height: auto;
+    text-align:start;
+    width: 50%;
+}
+

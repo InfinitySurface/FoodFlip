@@ -1,31 +1,31 @@
 {
   "recipes": [
     {
-      "image": "../public/images/spaghett.jpeg",
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fspaghett.jpeg6db6e393-0824-4f4c-ba5a-71a90a52ba81?alt=media&token=1b80b995-86b5-4147-9119-d593668c946a",
       "title": "Spaghetti & Meatballs",
       "time": "60",
       "description": "Easy for a busy workday and a family favorite.",
-      "ingredient": "Spaghetti",
-      "directions": "Cook",
-      "id": 6
+      "ingredient": "Spaghetti & Meatballs",
+      "directions": "cook",
+      "id": 1
     },
     {
-      "image": "",
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Froastedturkey.jpeg5985b187-e9fc-4351-9b2d-696cba0684e5?alt=media&token=256ffc46-e876-41a5-ab6a-538a4c71da78",
       "title": "Roasted Turkey Breast",
-      "time": "140",
+      "time": "80",
       "description": "Yields the most tender, juicy meat with the crispiest skin.",
       "ingredient": "Turkey",
-      "directions": "Cook",
-      "id": 8
+      "directions": "cook",
+      "id": 2
     },
     {
-      "image": "C:\\fakepath\\bkg.png",
-      "title": "jkjnnk",
-      "time": "8",
-      "description": "nkmjn",
-      "ingredient": "jnjl",
-      "directions": "lkjlk",
-      "id": 9
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fsalmon.jpegebd680db-2166-4a5e-ab4b-ea787ca990dc?alt=media&token=19fd568b-70c2-4f12-9872-fcbc5edd123c",
+      "title": "Teriyaki Salmon Bowl",
+      "time": "30",
+      "description": "A complete meal in a bowl that’s ready in just 30 minutes.",
+      "ingredient": "Salmon",
+      "directions": "cook",
+      "id": 3
     }
   ]
 }
