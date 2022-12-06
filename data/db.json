@@ -1,31 +1,454 @@
 {
   "recipes": [
     {
-      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fspaghett.jpeg6db6e393-0824-4f4c-ba5a-71a90a52ba81?alt=media&token=1b80b995-86b5-4147-9119-d593668c946a",
-      "title": "Spaghetti & Meatballs",
-      "time": "60",
-      "description": "Easy for a busy workday and a family favorite.",
-      "ingredient": "Spaghetti & Meatballs",
-      "directions": "cook",
-      "id": 1
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fbeef_enchiladas_6.jpgdfe169f0-83f0-4842-9507-3b44dc023f16?alt=media&token=29905035-5d81-4cd8-988f-36631b9c9afc",
+      "title": "Easy Beef Enchiladas",
+      "time": "20",
+      "description": "This easy dinner idea is a crowd pleaser filled with corn, beef, green chiles, and cheese, and covered in red sauce.",
+      "ingredient": "1 lb ground beef (at least 80% lean)\n2 cans (10 oz each) Old El Paso™ red enchilada sauce\n1 can (4.5 oz) Old El Paso™ chopped green chiles\n1 package (8.2 oz) Old El Paso™ flour tortillas for soft tacos & fajitas (6 inch)\n1 ½ cups shredded cheddar cheese (6 oz)\n",
+      "directions": "1. Heat oven to 375°F. Spray 13x9-inch (3-quart) baking dish or pan with cooking spray.\n2. In 10-inch nonstick skillet, cook beef over medium-high heat 5 to 7 minutes, stirring occasionally, until thoroughly cooked; drain. Stir in 1/2 cup of the enchilada sauce and the chiles.\n3. Spread 1/2 cup of the enchilada sauce evenly in baking dish. Spread 1/4 cup beef mixture down center of each tortilla; sprinkle with 1 tablespoon cheese. Wrap tortillas tightly around filling, placing seam side down in baking dish. Top with remaining enchilada sauce. Sprinkle with remaining cheese.\n4. Bake 20 to 25 minutes or until hot and bubbly. Let stand 5 minutes before serving.\n",
+      "id": 4
     },
     {
-      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Froastedturkey.jpeg5985b187-e9fc-4351-9b2d-696cba0684e5?alt=media&token=256ffc46-e876-41a5-ab6a-538a4c71da78",
-      "title": "Roasted Turkey Breast",
-      "time": "80",
-      "description": "Yields the most tender, juicy meat with the crispiest skin.",
-      "ingredient": "Turkey",
-      "directions": "cook",
-      "id": 2
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FVegan-Brownies-24.jpg0929d667-5c4a-4bbb-aa4a-dcb5a47b8cb5?alt=media&token=2ba5981d-1e92-42dc-b71f-893441b828ad",
+      "title": "Vegan Chocolate Brownies",
+      "time": "40",
+      "description": "This really is the Best Ever Vegan Brownies Recipe! Fudgy, gooey, perfect squares of chocolate that cut easily and are easy to make. You’ll never buy a boxed brownie mix again!",
+      "ingredient": "2 tbsp ground flaxseed\n200g dark chocolate, roughly chopped\n½ tsp coffee granules\n80g vegan margarine, plus extra for greasing\n125g self-raising flour\n70g ground almonds\n50g cocoa powder\n¼ tsp baking powder\n250g golden caster sugar\n1½ tsp vanilla extract",
+      "directions": "1. Heat the oven to 170C/150C fan/gas 3½. Grease and line a 20cm square tin with baking parchment. Combine the flaxseed with 6 tbsp water and set aside for at least 5 mins.\n2. In a saucepan, melt 120g chocolate, the coffee and margarine with 60ml water on a low heat. Allow to cool slightly.\n3. Put the flour, almonds, cocoa, baking powder and ¼ tsp salt in a bowl and stir to remove any lumps. Using a hand whisk, mix the sugar into the melted chocolate mixture, and beat well until smooth and glossy, ensuring all the sugar is well dissolved. \n4. Stir in the flaxseed mixture, vanilla extract and remaining chocolate, then the flour mixture. Spoon into the prepared tin.\n5. Bake for 35-45 mins until a skewer inserted in the middle comes out clean with moist crumbs. Allow to cool in the tin completely, then cut into squares.\n",
+      "id": 5
     },
     {
-      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fsalmon.jpegebd680db-2166-4a5e-ab4b-ea787ca990dc?alt=media&token=19fd568b-70c2-4f12-9872-fcbc5edd123c",
-      "title": "Teriyaki Salmon Bowl",
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fchicken-stir-fry-1200-1275.webp6bb8dfa5-664b-42ba-b54f-e45dff2e9507?alt=media&token=688ab02d-f325-4239-9999-e8e35136caa5",
+      "title": "Stir Fry",
+      "time": "15",
+      "description": "Make your own yummy stir fry with only ingredients laying around the house.",
+      "ingredient": "Your choice of veggies\n1 tablespoon olive oil\n¼ cup soy sauce\n3 garlic cloves minced\n3 Tablespoons brown sugar\n1 teaspoon sesame oil\n1/2 cup chicken broth\n1 tablespoon cornstarch\nchopped green onions and sesame seeds for garnish optional",
+      "directions": "1. In a wok or large skillet add 1 Tablespoon olive oil over medium high heat. Add your choice of veggies. Sauté 2-3 minutes until veggies are almost tender.\n2. In a small whisk together soy sauce, garlic, brown sugar, sesame oil, chicken broth, and cornstarch.\n3. Pour over veggies and cook until the sauce has thickened. Garnish with chopped green onions and sesame seeds if desired\n",
+      "id": 6
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fbeef-tacos-5.jpgf3eacaf6-6ee3-4eec-9288-d56fe15e9546?alt=media&token=19d14c5e-1580-4f31-9f74-f40b47b2bdce",
+      "title": "Beef Tacos",
       "time": "30",
-      "description": "A complete meal in a bowl that’s ready in just 30 minutes.",
-      "ingredient": "Salmon",
-      "directions": "cook",
-      "id": 3
+      "description": "Enjoy this easy family dinner that's easy to make.",
+      "ingredient": "1 pound lean (at least 80%) ground beef\n1 cup Old El Paso™ Thick 'n Chunky salsa\n10 Old El Paso™ taco shells\n½ head lettuce, shredded\n1 medium tomato, chopped (3/4 cup)\n1 cup shredded Cheddar cheese (4 ounces)",
+      "directions": "1. Cook beef in 10-inch skillet over medium heat 8 to 10 minutes, stirring occasionally, until brown; drain\n2. Stir salsa into beef. Heat to boiling, stirring constantly; reduce heat to medium-low. Cook 5 minutes, stirring occasionally. Pour beef mixture into large serving bowl\n3. Heat taco shells as directed on package. Serve taco shells with beef mixture, lettuce, tomato and cheese.\n",
+      "id": 8
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FTteokbokki-Korean-spicy-rice-cakes-2-1200.jpg657393fa-daf7-40eb-9ab1-109bf7658884?alt=media&token=fbf20818-a116-4b01-a915-d714dc7ff162",
+      "title": "Tteobokki",
+      "time": "20",
+      "description": "Enjoy these delicious spicy Korean rice cakes.",
+      "ingredient": "1 tablespoon vegetable oil\n1 small yellow onion, cut into 1/2-inch halfmoons\n3 green cabbage leaves, cut into 2-inch squares\n2 cloves garlic, minced\n1 1/2 cups water\n1 pound (about 3 cups) garaetteok (cylindrical Korean rice cakes)\n2 scallions, ends trimmed and cut into 2-inch pieces\n3 tablespoons gochujang\n1 tablespoon soy sauce, plus more to taste\n2 teaspoons sugar, plus more to taste\n1 teaspoon toasted sesame oil\n1 teaspoon toasted sesame seeds",
+      "directions": "1. In a 12-inch skillet over medium-high heat, add the oil and heat it until hot (rippling, but not smoking). Add the onions, cabbage, and garlic and cook, stirring frequently with a large spoon, for about 3 minutes. The vegetables should be translucent and a little browned. \n2. Add the water, tteok, scallions, gochujang, soy sauce, and sugar. Stir until the gochujang is fully dissolved into the sauce.\n3. Bring the sauce to a boil, then reduce the heat to low and simmer, stirring occasionally, about 10 minutes. Nudge the tteok to submerge them into the sauce as much as possible. The sauce will reduce and thicken, and the tteok will look glossy. \n4. Stir in the sesame oil. Taste the sauce and adjust seasoning with more soy sauce or sugar. The sauce should be flavorful and a little sweet to balance out the spiciness. \n5. Sprinkle the sesame seeds all over.",
+      "id": 9
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FDing-Tai-Fung-Cucumber-Salad-I-Heart-Umami.jpg7ab0f77b-9992-44e8-a129-efbd66268d90?alt=media&token=ee0af59f-6df8-4734-9378-ab58797990f2",
+      "title": "Spicy Cucumber",
+      "time": "5",
+      "description": "Refreshing side dish for any meal.",
+      "ingredient": "1 Korean cucumber\n1 teaspoon salt\n1 tablespoon Korean red chili pepper flakes\n1 tablespoon chopped scallion\n1/2 teaspoon garlic minced\n1 teaspoon vinegar\n1/2 teaspoon sugar\n1 teaspoon sesame seeds\n1 teaspoon sesame oil",
+      "directions": "1. Thinly slice the cucumber (1/8 to 1/4-inch thick). Toss gently with salt and set aside for about 15 minutes.\n2. Drain excess liquid. Avoid squeezing them because they will bruise. Mix well with all of the remaining ingredients. Taste a little and adjust the seasonings if necessary.\n",
+      "id": 10
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fkorean-soybean-sprout-side-dish-kongnamul-muchim.jpgd61252f9-7735-4746-ab54-8247155d5168?alt=media&token=774e3372-42a4-4ae0-9de6-090b7bf2e710",
+      "title": "Soybean Sprouts",
+      "time": "20",
+      "description": "Refreshing and yummy side dish for any meal.",
+      "ingredient": "1 pound kongnamul, soybean sprouts\n1 scallion, finely chopped\n1 teaspoon minced garlic\n1 tablespoon sesame oil\n1 teaspoon sesame seeds\nsalt (about 1 teaspoon) and pepper to taste",
+      "directions": "1. Rinse the soybean sprouts twice in cold water, discarding any rotten beans or skins floating. Place 1 cup of water in a medium size pot and the bean sprouts. Cover, and bring it to a boil over high heat. Continue to cook for 3 to 4 minutes. Do not open the lid until the sprouts are cooked.\n2. Drain quickly, and cool, reserving the broth if you want. (See the note 3.) You can shock the sprouts in cold water to stop the cooking and drain for an extra crunch, but not necessary.\n3. Toss with the remaining ingredients. Taste a little and add more salt (or gochugaru if making the spicy one) to your taste if needed.\n",
+      "id": 11
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FTostones-Recipe-Image.jpg2146f11f-36ad-4491-8166-aac0e50f13ac?alt=media&token=78dcd7fd-256c-4516-aa4b-037bcb2d4e9c",
+      "title": "Puerto Rican Tostones",
+      "time": "20",
+      "description": "Easy lunch or dinner dish for family and friends to enjoy.",
+      "ingredient": "1 green plantain\n5 tablespoons oil for frying\n3 cups cold water\nsalt to taste",
+      "directions": "1. Peel plantain and cut into 1-inch slices. Fill a bowl with 3 cups cold water. \n2. Heat oil in a large deep skillet over medium-high heat; add plantain slices in an even layer and fry on both sides until golden brown, about 3 1/2 minutes per side. Set skillet aside. \n3. Transfer plantain slices to a chopping board; flatten each one by placing a small plate on top and pressing down. Dip plantain slices in the cold water\n4. Reheat oil in the skillet over medium heat; cook plantain slices for 1 minute on each side. Season to taste with salt and serve immediately.\n",
+      "id": 12
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FEasy-Chicken-Enchilada-Recipe-2-1200.jpg6de50a77-7bed-47a6-8ca8-d9b8cee98652?alt=media&token=61615c49-011f-480e-96a6-8fb990dd8436",
+      "title": "Chicken Enchiladas",
+      "time": "30",
+      "description": "Dinner that family and friends will love.",
+      "ingredient": "1 1/2 cups cooked shredded chicken\n2 cups easy enchilada sauce, divided\n8 corn or flour tortillas (see note if using flour tortillas)\n2 1/2 cups shredded Mexican-blend cheese, divided\nsalt and pepper, to taste\noptional toppings: diced onions, chopped cilantro, sour cream, shredded lettuce, cotija cheese",
+      "directions": "1. Preheat oven to 350ºF. In a large bowl, combine the shredded chicken, 1/4 cup enchilada sauce and a generous pinch of salt and pepper. Mix together and taste. Season with more salt and pepper as needed.\n2. Wrap the tortillas in a damp paper towel and heat them in the microwave for 1 minute, flipping the them halfway through until all of them are warm and pliable.\n3. Assemble the enchiladas by filling each tortilla evenly with the shredded chicken mixture and 1 cup of shredded cheese. Roll the tortillas tightly to close and place in large baking dish seam side down.\n4. Pour the remaining 1 3/4 cup enchilada sauce over the tortillas, top with the remaining 1 1/2 cups shredded cheese, and bake for 20 minutes until the cheese is melted and bubbly.\n5. Serve immediately and garnish with desired toppings.\n",
+      "id": 13
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FPerfect-Grilled-Cheese-Sandwich-12.webp7064dae4-7de5-4514-80e2-e3675998b79c?alt=media&token=d6dc6a7b-9bd4-401a-95b2-e7b7bed99aeb",
+      "title": "Grilled Cheese",
+      "time": "28",
+      "description": "Crispy, yummy, and warm grilled cheese that everyone will love.",
+      "ingredient": "8 slices Texas toast , or thick sliced sandwich bread\n4 Tbsp unsalted butter\n4 slices medium cheddar cheese\n4 slices Gouda cheese\n4 slices Havarti cheese",
+      "directions": "1. Spread 1/2 Tbsp of butter on one side of each slice of bread.\n2. Set a skillet over medium/low heat and place 2 slices of bread in the skillet with the butter-side-down.\n3. Stack cheeses on one piece of toast: cheddar, havarti, then gouda. Once the breads are golden brown, closed the sandwich with the crisp sides on the outside.\n4. Continue cooking until the bread is a rich golden brown, flipping once and press down lightly to help the bread stick to the cheese. Total cooking time should one 5-6 minutes. Keep the heat on medium low for the breads to toast slowly, giving your cheese a chance to fully melt and adhere to the bread.\n5. Once you see the cheese has melted and breads are browned, remove to a plate and cut in half diagonally to serve. Repeat with the next sandwich.\n",
+      "id": 14
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FItalian-Stuffed-Peppers-11.jpge2ad7a45-64aa-4b3d-9785-9b5720f4f245?alt=media&token=c448a01c-a6b5-452e-9a5f-c542e10009fc",
+      "title": "Stuffed Bell Peppers",
+      "time": "15",
+      "description": "These colorful Italian stuffed peppers make a great family lunch or dinner. ",
+      "ingredient": "4 very large green bell peppers or about 5 small ones\n15 ounce can tomato sauce\n1/2 pound ground beef or turkey\n1/3 cup chopped onion\n1 cup cooked brown or white rice\n1/8 teaspoon salt\n1/8 teaspoon black pepper\n1/8 teaspoon garlic powder",
+      "directions": "1. Cut the tops off the peppers and remove the seeds. Place the peppers in a large saucepan and cover with water. Bring to a simmer and cook 3 minutes, just until the peppers are slightly soft. Drain, rinse with cool water and set aside on paper towels to drain.\n2. In a skillet, heat the ground beef and onion and cook until no pink remains. Drain.\n3. Add the salt, pepper, rice, garlic powder and half of the tomato sauce.\n4. Stir well and spoon into the peppers.\n5. Top with the other half of the tomato sauce.\n6. Bake in an ungreased dish at 350 for 25-30 minutes. Serve warm.\n",
+      "id": 15
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FEverything-But-Banana-Smoothie-2.jpg0dcb0f37-2704-4517-8f73-71d96e66230b?alt=media&token=1a99ba87-a0c7-4862-a493-a069f5b41760",
+      "title": "Banana Smoothie",
+      "time": "5",
+      "description": "Refreshing morning or snack smoothie.",
+      "ingredient": "1 banana\n1/2 orange, peeled and quartered\n1/3 cup Greek yogurt\n1/4 cup water or milk (dairy or non-dairy)\n1 to 2 teaspoons honey, optional",
+      "directions": "1. Roughly chop the banana and orange quarters, and then add to a blender. Top with yogurt and water (or milk). \n2. Turn blender on and blend until creamy and smooth. Taste, and then adjust with honey if needed.\n",
+      "id": 16
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2F7-layer-dip-1-1.jpg97d311c1-a802-4b13-99b3-cd85dd6604c2?alt=media&token=1d6cc012-3ea9-4cc9-bc0f-9230bc145bf0",
+      "title": "7-Layer Dip",
+      "time": "15",
+      "description": "A crowd favorite. ",
+      "ingredient": "1.25 cups salsa\n16 ounces refried beans canned\n2 tablespoons milk\n8 ounces cream cheese softened\n0.5 cup sour cream\n2 tablespoons taco seasoning\n1 cup guacamole prepared\n1.5 cups cheddar cheese\n0.5 cup black olives or tomatoes\n4 sliced green onions\n",
+      "directions": "1. Place salsa in a sieve to drain any liquid (this keeps your dip from getting runny).\n2. Combine refried beans and milk (or you can use the liquid from the salsa if you prefer) until smooth. Spread in the bottom of a 9x13 pan.\n3. Combine cream cheese, sour cream and taco seasoning with a mixer on medium. Spread over refried beans\n4. Spoon guacamole over cream cheese and gently spread. Repeat with drained salsa.\n5. Top with cheese, olives/tomatoes and green onions.\n6. Chill 1 hour before serving. Serve with tortilla chips or crackers.\n",
+      "id": 17
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fhot-chocolate-4-1200x1800.jpg73f54e32-6ff5-401b-ad95-33d7a29ff0fc?alt=media&token=75533ce1-a07b-4543-b9ed-b3e57ae58c75",
+      "title": "Hot Chocolate",
+      "time": "6",
+      "description": "Yummy to enjoy on a cold night.",
+      "ingredient": "4 cups milk (preferably whole or 2%\n¼ cup unsweetened cocoa powder\n¼ cup granulated sugar\n½ cup bittersweet or semisweet chocolate chips or chopped chocolate bar\n¼ teaspoon pure vanilla extract\n",
+      "directions": "1. Place milk, cocoa powder and sugar in a small saucepan. Heat over medium/medium-low heat, whisking frequently, until warm (but not boiling). \n2. Add chocolate chips and whisk constantly until the chocolate chips melt and distribute evenly into the milk. \n3. Whisk in vanilla extract, serve immediately. ",
+      "id": 18
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FBuffalo-Cauliflower-Wings-4.jpg2ab04408-2c38-4e73-a895-73d9424a0311?alt=media&token=7954a0be-84d7-4017-9862-6db839896ba1",
+      "title": "Buffalo Cauliflower Wings",
+      "time": "60",
+      "description": "Perfect for a snack or on game day!",
+      "ingredient": "1/2 large head cauliflower, cut into florets\noil spray or oil\n1/4 cup flour or almond meal\n1/4 tsp garlic powder\n3 tbsp milk of choice\noptional 1/2 cup breadcrumbs\n1/2 cup buffalo sauce or hot sauce\n1-4 tsp oil or butter spread",
+      "directions": "1. Preheat the oven to 425 F.\n2. Line a large baking dish with parchment. \n3. Spray florets with oil spray or toss with a little oil. Place in either a very large bowl or a large ziploc bag. Toss with the flour and garlic powder until evenly coated. If using the breadcrumbs for added crunch, finely crush them. \n4. Add the milk of choice and then the breadcrumbs to the cauliflower, and toss to coat.\n5. Arrange in one layer in the baking pan. Bake on the center rack 25 minutes. \n6. Combine the oil or melted butter spread with the buffalo sauce (because the fat helps the sauce adhere to the cauliflower). Dip cauliflower in sauce. \n7. Bake another 15 minutes. After this time, I like to broil for up to 5 minutes, watching so it does not burn. \n8. Serve with ranch dressing.\n",
+      "id": 19
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FChocolate-Chip-Pancakes-Hero-1-scaled.jpgfb2f4e79-e397-4814-b8f1-3f680d4cf206?alt=media&token=fb936048-142d-44bf-9ef3-9a490bfbde0c",
+      "title": "Chocolate Chip Pancakes",
+      "time": "14",
+      "description": "Chocolate chip pancakes are always a family favorite! ",
+      "ingredient": "1 ½ cups all-purpose flour\n3 ½ tsp baking powder\n1 tsp kosher salt\n1 tbsp granulated sugar\n3 tbsp unsalted butter melted\n1 large egg\n1 ½ cups whole milk\n1 cup chocolate chips\n",
+      "directions": "1. In a large mixing bowl, sift together the flour, baking powder, salt, and sugar.\n2. Add the egg, milk, and butter to the dry ingredients and stir to combine. Lumps are okay and be sure not to overmix.\n3. Fold in the chocolate chips.\n4. Heat a tablespoon of vegetable oil or butter in a nonstick sauté pan over medium-high heat. 5. When hot, add 1 cup of batter to the center and let it flatten out naturally.\n6. Cook until bubbles form on the surface and the edges are dry.\n7. Flip and continue to cook for another 1-2 minutes.\n8. Top with the garnishes of your choice and serve immediately.\n",
+      "id": 20
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fedible-cookie-dough-recipe-1-of-1.jpg331946d7-579a-4b62-a226-c0d8fffead9c?alt=media&token=d563ebf8-f4b5-4c7c-8a08-b6bd6bcd5348",
+      "title": "Edible Cookie Dough",
+      "time": "15",
+      "description": "A snack everyone loves to eat.",
+      "ingredient": "2 cup all-purpose flour\n1.5 cup packed brown sugar\n1 cup butter\n2 teaspoon vanilla extract\n1 teaspoon salt\n4 tablespoons milk\n1 cup milk chocolate chips\n1 cup mini chocolate chips",
+      "directions": "1. To heat-treat your flour so it is safe to use. Place flour in a microwave-safe dish and cook for 1 minute and 15 seconds, stirring it every 15 seconds. Set aside.\n2. Beat sugar and butter with an electric mixer in a large bowl until creamy. Beat in vanilla extract and salt. \n3. Add heat-treated flour; mix until a crumbly dough forms. \n4. Stir in milk until dough is just combined; fold in milk chocolate chips and mini chocolate chips.",
+      "id": 21
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FSpaghetti-Meat-Sauce-tasteandtellblog.com-3.jpgc164aeb0-c306-433b-9982-b02471044de0?alt=media&token=aeed77af-e6f4-4595-97aa-4c56ca523fb2",
+      "title": "Simple Spaghetti",
+      "time": "15",
+      "description": "Easy dinner for family and friends.",
+      "ingredient": "one 12-ounce box Barilla® Pronto® Half-Cut Spaghetti\npinch salt, optional to taste\n1 pound ground beef or ground sirloin (I used and recommend 90% lean so you don’t have to drain it)\none 24-ounce jar Barilla® Tomato and Basil Sauce or your favorite sauce\nfinely chopped fresh basil for garnishing, optional\nfreshly grated Parmesan cheese for garnishing, optional",
+      "directions": "1. To a large pan, add the pasta, cover with 3 cups cold water, optional salt to taste, and boil over high heat until water has absorbed, about 10 minutes, but watch your pasta and cook as needed until al dente. While pasta boils, brown the ground beef.\n2. To a large skillet, add the ground beef and cook over medium-high heat, breaking up the meat with a spatula as it cooks to ensure even cooking.\n3. After beef has cooked through, add the pasta sauce, stir to combine, and cook for 1 to 2 minutes, or until heated through.\n4. After pasta has cooked for about 10 minutes, or until all the water has been absorbed, add the sauce over the pasta and toss to combine in the skillet or alternatively plate the pasta and add sauce to each individual plate as desired.\n5. Optionally garnish with basil and Parmesan to taste and serve immediately. Pasta and sauce are best warm and fresh but extra will keep airtight in the fridge for up to 5 days.",
+      "id": 22
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fhow-to-make-an-omelette-american-12.jpg8f323896-9d61-4fb4-a790-0342d680bb23?alt=media&token=db8b8757-8893-4cd5-b339-376a50cfcacd",
+      "title": "Basic Omelette",
+      "time": "6",
+      "description": "Quick and simple breakfast.",
+      "ingredient": "2 eggs\n2 tbsp (30 mL) water\nPinch of salt\nPinch of pepper\nYour choice of fillings\n",
+      "directions": "1. Whisk eggs, water, salt and pepper.\n2. Spray 8-inch (20 cm) non-stick skillet with cooking spray. Heat over medium heat. Pour in egg mixture. As eggs set around edge of skillet, with spatula, gently push cooked portions toward centre of skillet. Tilt and rotate skillet to allow uncooked egg to flow into empty spaces.\n3. When eggs are almost set on surface but still look moist, cover half of omelette with filling. Slip spatula under unfilled side; fold over onto filled half.\n4. Cook for a minute, then slide omelette onto plate.",
+      "id": 23
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fvegan-bao-buns-14.jpge54e17cd-367c-4463-b23d-a269e332de1d?alt=media&token=5d38edb7-0305-42c9-9155-12a8e8fdd6a2",
+      "title": "Bao Buns",
+      "time": "28",
+      "description": "These soft and fluffy steamed bao buns are simply delicious and so easy to make! ",
+      "ingredient": "⅔ cup warm water\n2 teaspoons instant yeast\n2 tablespoons sugar\n1 tablespoon canola oil\n1¼ cups bread flour\n1 teaspoon kosher salt\n¼ teaspoon baking soda\n",
+      "directions": "1. In a small bowl, whisk together the water, yeast and sugar until the yeast dissolves. Let the mixture sit until the yeast starts to get foamy and bloom, 4 to 6 minutes. Stir in the oil and set aside.\n2. Meanwhile, sift the bread flour, salt and baking soda together. Add the yeast mixture to the dry ingredients and stir using a rubber spatula. If the dough looks sticky, add 1 additional tablespoon of flour at a time until it is less sticky.\n3. Turn the dough onto a lightly floured work surface and knead until smooth. Cover the dough with a damp kitchen towel and let the dough rest until it has doubled in size, 1½ to 2 hours. Punch the dough down to flatten it.\n4. Portion the dough into balls that are 2 inches in diameter and let rest for 5 minutes. Flatten each ball into a disk 3 inches in diameter.\n5. Fill the buns with your filling of choice and wrap by gathering the edge and twisting slightly. Cover with a damp kitchen towel to keep the bao from drying out.\n6. Place the buns in a steam basket lined with parchment paper and steam until the buns have expanded, 7 to 9 minutes. Serve.",
+      "id": 24
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FBuffalo-Chicken-Sliders-16.jpgd6a8282e-2423-4433-9b9d-f2edf59293f0?alt=media&token=aaa111c3-2cc3-4f99-be7c-74497f725f22",
+      "title": "Chicken Sliders",
+      "time": "180",
+      "description": "Yummy and steamy sliders for anyone to enjoy.",
+      "ingredient": "1 pound boneless skinless chicken breasts\n2 tablespoons plus 1/3 cup Louisiana-style hot sauce, divided\n1/4 teaspoon pepper\n1/4 cup butter, cubed\n1/4 cup honey\n12 Hawaiian sweet rolls, warmed\n",
+      "directions": "1. Place chicken in a 3-qt. slow cooker. Toss with 2 tablespoons hot sauce and pepper; cook, covered, on low 3-4 hours or until tender.\n2. Remove chicken; discard cooking juices. In a small saucepan, combine butter, honey and remaining hot sauce; cook and stir over medium heat until blended. Shred chicken with 2 forks; stir into sauce and heat through. Serve on rolls with desired optional ingredients.\n",
+      "id": 25
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fhomemade-fudge-brownies-3.jpg046b8263-a428-428a-8355-c582f86087ad?alt=media&token=6efa54b6-3f62-4eee-a3cb-4280abb4e02a",
+      "title": "Fudge Brownies",
+      "time": "45",
+      "description": "These are the richest, most decadent homemade brownies you'll ever try.",
+      "ingredient": "1 1/2 cups granulated sugar\n3/4 cup all-purpose flour\n2/3 cup cocoa powder, sifted if lumpy\n1/2 cup powdered sugar, sifted if lumpy\n1/2 cup dark chocolate chips\n3/4 teaspoons sea salt\n2 large eggs\n1/2 cup canola oil or extra-virgin olive oil\n2 tablespoons water\n1/2 teaspoon vanilla\n",
+      "directions": "1. Preheat the oven to 325°F. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.\n2. In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.\n3. In a large bowl, whisk together the eggs, olive oil, water, and vanilla.\n4. Sprinkle the dry mix over the wet mix and stir until just combined.\n5. Pour the batter into the prepared pan (it'll be thick - that's ok) and use a spatula to smooth the top. Bake for 40 to 48 minutes, or until a toothpick comes out with only a few crumbs attached (note: it's better to pull the brownies out early than to leave them in too long). Cool completely before slicing.",
+      "id": 26
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FMargherita-Pizza-Hero-12-scaled.jpg90469c61-9674-4499-b13e-0bea59843012?alt=media&token=acc069b8-38a1-4676-8022-98d735ff0a83",
+      "title": "Margherita Pizza",
+      "time": "50",
+      "description": "Margherita pizza is a staple at Italian restaurants and pizzerias everywhere! ",
+      "ingredient": "1 batch easy whole wheat pizza dough or 1 pound store-bought pizza dough\n1 large can (28 ounces) whole San Marzano tomatoes\n12 ounces (dry weight) ovoline-type mozzarella or other fresh mozzarella balls, ideally water-packed\nHandful of fresh basil, thinly sliced plus small leaves\nAdditional garnishes: Drizzle of extra-virgin olive oil, flaky sea salt or kosher salt and optional red pepper flakes\n",
+      "directions": "1. Preheat the oven to 500 degrees Fahrenheit with a rack in the upper third of the oven. If you’re using a baking stone or baking steel, place it on the upper rack. Prepare dough through step 5.\n2. Place a medium mixing bowl in the sink and pour the canned tomatoes into the bowl, juices and all. Crush the tomatoes by hand. Spread about ¾ cup of the tomato sauce evenly over each pizza, leaving about 1 inch bare around the edges.\n3. If your mozzarella is packed in water, drain off the water and gently pat the mozzarella dry on a clean tea towel or paper towels. If you’re working with large mozzarella balls, tear them into smaller 1-inch balls. Distribute the mozzarella over the pizza, concentrating it a bit more in the center of the pizza, as it will melt toward the edges.\n4. Bake pizzas individually on the top rack until the crust is golden and the cheese is just turning golden, about 10 to 12 minutes (or significantly less, if you’re using a baking stone/steel—keep an eye on it).\n5. Top each pizza generously with fresh basil, followed by a light back-and-forth drizzle of olive oil, a sprinkling of salt, and red pepper flakes, if you wish. Slice and enjoy. Leftover pizza will keep well in the refrigerator for up to 4 days.\n",
+      "id": 27
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FThe-Best-Chili-Recipe-6.webp3c9b5786-7d55-495e-80d7-b24630d32723?alt=media&token=f92e8e7a-e680-4616-811a-afad15e7c178",
+      "title": "Best Chili",
+      "time": "50",
+      "description": "Best chili to serve your friends and family.",
+      "ingredient": "3 pounds ground beef\n32.25 ounces tomato soup (3 cans)\n30 ounces red kidney beans (2 cans) drained and rinsed\n2 packets mild chili seasoning\n21.5 ounces water (2 soup cans full)\n",
+      "directions": "1. Place a large pot over medium heat. Add ground beef and cook until no longer pink, about 10 minutes. Use a wooden spoon to break up the meat as it cooks. Drain any excess grease.\n2. To the same pot, add the tomato soup, kidney beans, and chili seasoning. Using the tomato soup cans, fill two with water and the add water to the pot.\n3. Stir and bring chili to a simmer. Reduce heat to medium-low and simmer for 35 minutes, stirring occasionally.\n4. Once the chili has thickened and your house smells amazing, stir one more time and check the seasoning. Add salt and pepper to your taste as needed.\n5. Portion chili into bowls and serve immediately. We like our chili topped with shredded cheese and served with buttered saltines or cornbread.",
+      "id": 28
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Frice-krispie-treat-square.jpg7d87ee6c-0ab6-4e70-8ca8-cf9253721bf7?alt=media&token=4b61af03-0d5b-49b5-9004-c6892196f1b3",
+      "title": "Rice Krispie Treats",
+      "time": "15",
+      "description": "The perfect homemade Rice Krispie Treats! ",
+      "ingredient": "6 Tablespoons salted butter\n16 ounce bag mini marshmallows, divided\n1 teaspoon pure vanilla extract\n6 cups rice krispies cereal\n",
+      "directions": "1. Line a 9-inch square baking dish with parchment paper. Set aside.\n2. In a large saucepan, melt butter over medium heat. Once melted, add in all but 1 cup of the marshmallows. Reduce heat to low and continue stirring until completely melted.\n3. Remove from heat and stir in the vanilla. Add the cereal and the remaining 1 cup of marshmallows and gently stir until combined.\n4. Pour into the prepared baking dish. Press GENTLY with your fingertips just until completely spread out (the harder you pack them in, the harder they are to eat).\n5. Allow to set, about 1 hour. Cut and enjoy!\n",
+      "id": 29
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fberry-smoothie-06-2.webp1ed27929-155e-4ac1-933e-2b4c51726243?alt=media&token=0afec1ba-b8e4-416a-97ca-d59d176d93c3",
+      "title": "Very Berry Smoothie",
+      "time": "12",
+      "description": "Perfect breakfast that is filling and yummy.",
+      "ingredient": "1 frozen banana\n1 cup mixed frozen berries (fresh or frozen)\n½ cup unsweetened Greek yogurt\n1 cup unsweetened milk (nut, soy, animal)\n",
+      "directions": "1. Add all of the ingredients for one of the smoothies above to the jar of your blender.\n2. Place the lid on the blender and blend until smooth, about 1 minutes on medium to medium-high speed.\n",
+      "id": 30
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fbest-peanut-butter-cookies-6.jpg17d663ba-de8c-4b83-a6ef-28cc6803245c?alt=media&token=c70b6704-f9c3-408b-bb46-0601ff5e5bcb",
+      "title": "Peanut Butter Cookies",
+      "time": "14",
+      "description": "The best cookies you will ever have.",
+      "ingredient": "1 cup sugar\n1 cup creamy peanut butter\n1 large egg\n",
+      "directions": "1. Preheat oven to 350° F.\n2. Prepare a baking sheet by lining it with parchment or with a silicone baking mat.\n3. In a medium bowl, mix the sugar, peanut butter and egg together until well incorporated.\n4. Roll the dough into 1-inch balls and place on the prepared baking sheet. Using the back of a fork, make a criss-cross pattern on each cookie.\n5. Bake for 12 minutes.\n6. Allow to cool on the baking sheet for a minute or two before transferring to a wire rack.\n",
+      "id": 31
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FJapanese-souffle-pancake.jpg0e0775e9-5256-49b4-a6c0-ed49727837ff?alt=media&token=56e3e372-474f-4a1b-acac-ed73ae5ce3ce",
+      "title": "Japanese Pancakes",
+      "time": "33",
+      "description": "Simply and yummy pancake recipe.",
+      "ingredient": "2 egg yolks and 4 egg whites (4 large eggs total), cold straight out of the fridge\n1/4 cup (33g) all-purpose flour\n1 teaspoon baking powder\n1 teaspoon vanilla extract\n1/16 teaspoon kosher salt\n2 tablespoons whole milk\n1 tablespoon avocado or canola oil, plus more for the skillet\n1 teaspoon cream of tartar\n1/4 cup (50g) sugar\n",
+      "directions": "1. Separate the 4 eggs—you’ll need 4 egg whites in a large bowl and 2 egg yolks in separate large bowl. Save the remaining 2 egg yolks for another use.\n2. Heat a large (12-inch) nonstick skillet over very, very, very low heat. My stove top goes from 0 to 10 and I set it to a 1.\n3. Take the egg whites out of the fridge and add the cream of tartar. Use a hand mixer to whisk them on medium-low speed for about 30 seconds. You can also use a stand mixer.\n4. Scrape about 1/2 cup of the meringue into the yolk mixture and gently whisk to combine. This will make it easier to incorporate the remaining meringue into the batter.\n5. Use the pastry brush to lightly brush oil on the skillet. Use a large spoon to scoop 3 evenly sized pancakes, about 3 generous tablespoons each, with the batter piled up high. Do not spread the batter out with the spoon.\n6. After 10 minutes, scoop 1 tablespoon of batter on top of each pancake.\n7. Serve the pancakes right away—leftovers aren’t great. The pancakes may deflate a little, but that’s okay!",
+      "id": 32
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FMiso-Chicken-5-II.jpg9baed2d3-71e8-44da-aaa9-12ebc2238e5d?alt=media&token=8e16ff15-55ab-4c50-902d-dcd9604d1069",
+      "title": "Miso Chicken",
+      "time": "30",
+      "description": "Yummy miso chicken recipe for dinner or lunch.",
+      "ingredient": "4 chicken breasts (boneless, skinless)\n1 cup jasmine rice\n6 ounces watercress\n4 ounces snow peas\n6 ounces sugar snap peas\n4 cloves garlic (minced )\n4 ounces shiitake mushrooms (caps thinly sliced and stems removed)\n4 Tablespoons cashews (chopped)\n1 2-inch piece ginger (peeled and minced )\n1/2 cup white miso paste\n",
+      "directions": "1. Preheat oven to 475-degrees.\n2. In a small bowl, combine miso paste, ⅓ of the garlic, ⅓ of the ginger and 2 Tablespoons water; stir to thoroughly combine. Line a sheet pan with foil or parchment paper. Pat chicken breasts dry with paper towels; season with salt and pepper. Place on sheet pan and spread miso mixture on the top. Cook 20-22 minutes, or until browned and cooked through to an internal temperature of 165-degrees.\n3. While chicken roasts, in a small pot, bring rice, a big pinch of salt and 1 1/4 cups water to a boil. Once boiling, cover and reduce heat to low. Simmer 15 minutes, or until the water has been absorbed and the rice is tender. Remove from heat and fluff with a fork.\n4. Once chicken has roasted for 10 minutes, in a large pan, heat 2 teaspoons of oil over medium-high heat. Add mushrooms and cook, stirring occasionally, 3-5 minutes, or until the mushrooms are lightly browned. Add the remaining garlic and ginger and cook, stirring occasionally, about 1 minute, or until softened and fragrant.\n5. Add watercress, snow peas and sugar snap peas to mushrooms; season with salt and pepper. Cook, stirring frequently, 2-3 minutes, or until bright green.\n6. Divide cooked rice and finished vegetables between four plates. Top with a chicken breast. Garnish with cashews. Enjoy!\n",
+      "id": 33
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FBaked-Chicken-Katsu-9686-III.jpg1b405e23-675c-42f4-9a78-32b674c91691?alt=media&token=c745d322-f8e1-4f8e-881e-cffd3a015458",
+      "title": "Baked Tonkatsu",
+      "time": "23",
+      "description": "Yummy baked and crispy pork.",
+      "ingredient": "2x 150-200g /5.3-7.1oz pork loin steaks\n2 pinches of salt\n2 pinches of pepper\n1½ tbsp flour\n1 egg beaten\n⅔-1 cup breadcrumb\n1 tbsp oil\n",
+      "directions": "1. Heat a frying pan over medium heat without oil. Put the breadcrumbs into the pan and toast them, mixing the crumbs regularly.\n2. When about ¾ of the breadcrumbs change the color to light brown, remove from the heat and transfer to a plate or a tray, which will be used to coat the pork pieces in the breadcrumbs.\n3. Pour oil over the crumbs and mix well so that breadcrumbs are lightly coated in oil. You should feel the breadcrumbs are slightly wet. Let them cool.\n4. Pre-heat oven to 230°C/446°F.\n5. Using a knife or a pair of scissors, cut the connecting tissues of the pork steaks along the band of fat and between the different kinds of meat. This will prevent the meat from curling and shrinking.\n6. Sprinkle salt and pepper on the pork steaks.\n7. Thoroughly coat each pork steak in flour, dip it in egg, then coat it with breadcrumbs.\n8. Place a rack on a tray and put the crumbed pork pieces on the rack.\n9. Bake in the oven for about 13 minutes.\n10. Remove from the oven and cut each tonkatsu into 2cm/¾” wide strips.\n11. Serve with shredded cabbage and tonkatsu sauce.\n",
+      "id": 34
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fstuffed-poblano-peppers-105.jpg7e7ec96b-8c00-4e46-b988-362fdde3fec9?alt=media&token=cf3664cf-ec25-4ea8-b810-fed97619e6fe",
+      "title": "Stuffed Poblano Peppers",
+      "time": "30",
+      "description": "Delicious dinner for all.",
+      "ingredient": "1 pound lean ground turkey (93% lean)\n1 can (15 ounces) chili without beans\n1/4 teaspoon salt\n1-1/2 cups shredded Mexican cheese blend, divided\n1 medium tomato, finely chopped\n4 green onions, chopped\n4 large poblano peppers\n1 tablespoon olive oil\n",
+      "directions": "1. Preheat broiler. In a large skillet over medium heat, cook turkey, crumbling meat, until no longer pink, 5-7 minutes; drain. Add chili and salt; heat through. Stir in 1/2 cup cheese, tomato and green onions.\n2. Meanwhile, cut peppers lengthwise in half; remove seeds. Place on a foil-lined 15x10x1-in. baking pan, cut side down; brush with oil. Broil 4 in. from heat until skins blister, about 5 minutes.\n3. With tongs, turn peppers. Fill with turkey mixture; sprinkle with remaining cheese. Broil until the cheese is melted, 1-2 minutes longer.",
+      "id": 35
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Floaded-cowboy-queso-6-of-13.jpgec344c4d-2984-4bbb-b8af-c772ca9396e5?alt=media&token=47b01083-fbbf-481f-99c0-3cca600e05d0",
+      "title": "Loaded Cowboy Queso",
+      "time": "30",
+      "description": "The ultimate appetizer.",
+      "ingredient": "1/2 pound bulk spicy pork sausage\n1 cup Pale Ale or other light beer\n1 package (16 ounces) Velveeta, cubed\n1/2 cup shredded pepper jack cheese\n1 teaspoon salt\n1 teaspoon garlic powder\n1 teaspoon onion powder\n1/2 teaspoon cayenne pepper\n1 can (10 ounces) diced tomatoes with mild green chiles, undrained\n1 cup black beans, rinsed and drained\n1/4 cup minced fresh cilantro\nOptional: jalapenos and tortilla or corn chips\n",
+      "directions": "1. In a large skillet, cook sausage over medium heat until no longer pink, about 5 minutes, crumbling meat. Add beer, cook until reduced slightly, 3-4 minutes, stirring occasionally. Add Velveeta, pepper jack cheese and seasonings; stir occasionally until melted. When melted, stir in tomatoes, beans, and cilantro.\n2. If desired, garnish with jalapenos and additional cilantro and serve with tortilla or corn chips.\n",
+      "id": 36
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FHow-to-make-Cheese-Balls-1.jpg810ee1dc-199c-4490-a525-da983a19374e?alt=media&token=2025d9bc-ebef-4c2b-b522-02d0e5f7672d",
+      "title": "Cheese Balls",
+      "time": "30",
+      "description": "The perfect snack on the go.",
+      "ingredient": "2 cups chopped pecans\n2/3 cup dried cranberries\n1/2 cup crumbled cooked bacon\nFILLING:\n3 cups smoked sharp cheddar cheese, shredded\n6 ounces cream cheese, softened\n1/2 cup finely chopped pecans\n1/2 cup crumbled cooked bacon\n1/4 cup minced fresh basil\n",
+      "directions": "1. Place pecans, cranberries and bacon in a food processor. Pulse until finely chopped. Transfer to a shallow bowl. Place remaining ingredients in the same food processor. Pulse until combined.\n2. Shape cheese mixture into 1-in. balls; roll in pecan mixture. Store in an airtight container in the refrigerator.\n",
+      "id": 37
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2F4b-bacon-wrapped-asparagus.jpg176040db-787e-4a52-a02c-fb69e7ed3a7d?alt=media&token=fc45b142-5b1c-47b9-a773-f89621315e92",
+      "title": "Wrapped Asparagus",
+      "time": "30",
+      "description": "Bring to any party or for yourself, they're that good!",
+      "ingredient": "10 fresh asparagus spears, trimmed\nCooking spray\n1/8 teaspoon pepper\n5 bacon strips, halved lengthwise\n",
+      "directions": "1. Preheat air fryer to 400°. Coat asparagus with cooking spray. Sprinkle with pepper; turn to coat. Wrap a bacon piece around each spear; secure ends with toothpicks.\n2. Place asparagus on greased tray in air-fryer basket. Cook until bacon is crisp, 5-7 minutes on each side. Discard toothpicks.\n",
+      "id": 38
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FSpinach-Feta-Triangles-05-1.jpgab973d45-5dd2-4f3b-823c-0cef9634724b?alt=media&token=fddaa705-7b4c-4fef-8439-27a3c1f36957",
+      "title": "Spinach Bourekas",
+      "time": "50",
+      "description": "The most fresh and delicious!",
+      "ingredient": "1 tablespoon olive oil or avocado oil\n1 pound fresh spinach, trimmed\n1/2 cup chopped shallots\n1 tablespoon minced garlic\n1/2 teaspoon salt\n1/4 teaspoon pepper\n1 package (17.3 ounces) frozen puff pastry, thawed\n1/2 cup crumbled feta cheese\n1/2 cup whole-milk ricotta cheese\n1 large egg, beaten\n1 tablespoon everything seasoning blend",
+      "directions": "1. Preheat oven to 400°. In a large skillet, heat oil over medium-high heat. Add spinach, shallots and garlic; cook and stir until wilted, 2-3 minutes. Remove from the heat; strain off any excess water. Stir in salt and pepper; set aside to cool to room temperature.\n2. On a lightly floured surface, unfold puff pastry. Cut each sheet into 4 squares. In a small bowl, combine feta and ricotta; stir in spinach mixture. Spoon cheese mixture diagonally over half of each square to within 1/2 in. of edges. Brush pastry edges with egg. Fold 1 corner over filling to the opposite corner, forming a triangle; press edges with a fork to seal. Place on parchment-lined baking sheets. Brush remaining egg over pastries; sprinkle with seasoning blend. Bake until golden brown, 25-30 minutes.\n",
+      "id": 39
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FSouthern-Peach-Cobbler-013-1200x1800.webpa44f4d79-2b1b-4d4e-8a15-cdea15aa80ad?alt=media&token=1e328134-c91f-4afa-ad4e-007afeeb4509",
+      "title": "Peach Cobbler",
+      "time": "45",
+      "description": "This from-scratch Southern Peach Cobbler recipe features juicy peaches topped and is amazing.",
+      "ingredient": "1 cup packed brown sugar\n1/4 cup cornstarch\n1 cup water\n9 cups sliced fresh or frozen peaches\n1/4 cup butter\n1 tablespoon fresh lemon juice\nTOPPING:\n2 cups all-purpose flour\n3/4 cup sugar\n1 tablespoon baking powder\n1/4 teaspoon salt\n3/4 cup 2% milk\n1/2 cup butter, melted\n1-1/2 teaspoons grated orange zest, optional\nVanilla ice cream, optional\n",
+      "directions": "1. Preheat oven to 400°. In a Dutch oven, combine brown sugar, cornstarch and water until smooth. Add peaches; bring to a boil. Cook and stir for 2 minutes. Reduce heat to low; stir in butter and lemon juice.\n2. For topping, combine flour, sugar, baking powder and salt in a bowl. Stir in milk, butter and orange zest if desired. Transfer hot peach mixture to an ungreased 13x9-in. baking dish. Spoon topping over peaches. Bake, uncovered, until golden brown, 30 to 35 minutes. If desired, serve with vanilla ice cream.\n",
+      "id": 40
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FHomemade-Vanilla-Ice-Cream-4.jpgb2f59925-ff11-45ed-bd94-104b0b12ecb7?alt=media&token=a4624471-b821-4c4b-b55d-17bfdbe8cab0",
+      "title": "Vanilla Ice Cream",
+      "time": "25",
+      "description": "Yummy snack.",
+      "ingredient": "2 cups heavy whipping cream\n2 cups half-and-half cream\n1 cup sugar\n2 teaspoons vanilla extract\n",
+      "directions": "1. Combine all ingredients, stirring to dissolve sugar completely. Fill cylinder of ice cream maker no more than two-thirds full; freeze according to manufacturer's directions. (Refrigerate any remaining mixture until ready to freeze.) Serve immediately or store in covered containers in freezer.\n",
+      "id": 41
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FApple-Bread-Pudding-5.jpg3b6de019-bc2a-4fac-a396-9f0857d721c0?alt=media&token=6f0820ff-4347-4521-9b4d-bb492836b9cd",
+      "title": "Apple Bread Pudding",
+      "time": "80",
+      "description": "The most yummy and warm dessert.",
+      "ingredient": "5 tablespoons butter, divided\n2 medium Granny Smith apples, peeled and chopped\n1 cup sugar, divided\n1/2 teaspoon ground cinnamon\n1/4 cup brandy or unsweetened apple juice\n3 cups refrigerated unsweetened vanilla almond milk\n4 large eggs, beaten\n1/2 teaspoon vanilla extract\n8 cups cubed day-old bread\n1/2 cup chopped walnuts\n",
+      "directions": "1. Preheat oven to 350°. In a large cast-iron or other ovenproof skillet, melt 2 tablespoons butter over medium heat. Add apples and 1/4 cup sugar. Cook and stir until apples are golden brown and soft, about 6 minutes. Stir in cinnamon. Remove from heat. Stir in brandy; cook over medium heat until liquid is syrupy, 1-2 minutes. Remove from heat.\n2. In a large bowl, whisk milk, eggs, vanilla and remaining 3/4 cup sugar until blended. Gently stir in bread; let stand until bread is softened, about 5 minutes. Stir in apple mixture and walnuts.\n3. Add 1 tablespoon remaining butter to skillet; place in oven to heat skillet. Carefully remove hot skillet from oven once butter has melted.\n4. Add bread mixture. Melt remaining 2 tablespoon butter; drizzle over top. Bake until puffed, golden and a knife inserted near the center comes out clean, 50-55 minutes. Serve warm.",
+      "id": 42
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FSheetPanSalmonPotatoes_Styled2.jpgc02dcd10-c988-4307-a658-b104b158df20?alt=media&token=e783edcb-ff3d-41c9-8520-dfb260432acf",
+      "title": "Cocoa Spiced Salmon",
+      "time": "35",
+      "description": "An amazing dinner for family and friends.",
+      "ingredient": "1/2 cup orange juice\n4 salmon fillets (4 ounces each)\n1 tablespoon packed brown sugar\n2 teaspoons sugar\n1 teaspoon baking cocoa\n1/4 teaspoon cayenne pepper\n1/4 teaspoon ground cinnamon\n1/8 teaspoon salt\n1/8 teaspoon pepper\n4 tablespoons butter, melted\n1 medium navel orange, thinly sliced",
+      "directions": "1. Preheat oven to 400°. Pour orange juice in a shallow dish; add salmon, skin-side up. Let stand at room temperature 15 minutes.\n2. Meanwhile, in a small bowl, stir together sugars, cocoa powder, cayenne, cinnamon, salt and pepper. Place salmon, skin-side down, on a parchment-lined baking sheet. Rub with spice mixture. Top salmon with an orange slice; brush with melted butter. Bake until fish flakes easily with a fork, 20-25 minutes.\n",
+      "id": 43
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FFINAL-skillet-lasagna-8-1200x1800.jpg80ce3673-acd1-4893-bc19-8b78f2247335?alt=media&token=7cd9affa-9ca5-461c-b943-d307b71dc1a3",
+      "title": "Stovetop Lasagna",
+      "time": "45",
+      "description": "Easy and simple dinner to make.",
+      "ingredient": "1 pound lean ground beef (90% lean)\n1 jar (24 ounces) pasta sauce\n2 cups water\n1 large sweet red pepper, chopped\n1/4 cup Italian salad dressing\n1 teaspoon garlic powder\n10 uncooked lasagna noodles, broken into 2-in. pieces\n1-1/2 cups 2% cottage cheese\n1 cup shredded part-skim mozzarella cheese\n",
+      "directions": "1. In a large skillet, cook beef over medium heat until no longer pink; drain. Stir in pasta sauce, water, red pepper, dressing and garlic powder. Bring to a boil; stir in noodles. Reduce heat to medium-low. Cook, covered, until noodles are tender, 10-15 minutes, stirring occasionally.\n2. Stir in cottage cheese; heat through. Remove from heat; top with mozzarella cheese. Cover and let stand until cheese is melted, about 5 minutes.\n",
+      "id": 44
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FChicken-Shawarma-tall-FS-30.jpgf1cfc953-d595-4b8d-8dc8-fb22114dbd46?alt=media&token=6b2d5f13-c278-4c8e-8739-70d1c73db2c0",
+      "title": "Chicken Shawarma",
+      "time": "20",
+      "description": "Easy and yummy recipe.",
+      "ingredient": "¾ tbsp ground cumin\n¾ tbsp turmeric powder\n¾ tbsp ground coriander\n¾ tbsp garlic powder\n¾ tbsp paprika\n½ tsp ground cloves\n½ tsp cayenne pepper, more if you prefer\nSalt\n8 boneless, skinless chicken thighs\n1 large onion, thinly sliced\n1 large lemon, juice of\n⅓ cup Private Reserve extra virgin olive oil",
+      "directions": "1. In a small bowl, mix the cumin, turmeric, coriander, garlic powder, sweet paprika and cloves. Set aside the shawarma spice mix for now.\n2. Pat the chicken thighs dry and season with salt on both sides, then thinly slice into small bite-sized pieces.\n3. Place the chicken in a large bowl. Add the shwarma spices and toss to coat. Add the onions, lemon juice and olive oil. Toss everything together again. Cover and refrigerate for 3 hours or overnight (if you don't have time, you can cut or skip marinating time)\n4. When ready, preheat the oven to 425 degrees F. Take the chicken out of the fridge and let it sit in room temperature for a few minutes.\n5. Spread the marinated chicken with the onions in one layer on a large lightly-oiled baking sheet pan. Roast for 30 minutes in the 425 degrees F heated-oven. For a more browned, crispier chicken, move the pan to the top rack and broil very briefly (watch carefully). 6. Remove from the oven.\n7. While the chicken is roasting, prepare the pita pockets. Make tahini sauce according to this recipe or Tztaziki sauce according to this recipe. 8. Make 3-ingredient Mediterranean salad according to this recipe. Set aside.\n9. To serve, open pita pockets up. Spread a little tahini sauce or Tzatziki sauce, add chicken shawarma, arugula, Mediterranean salad and pickles or olives, if you like. Serve immediately!",
+      "id": 45
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FPumpkin-Pie-Slice-New-2.webp24c4d89c-3572-4866-98e6-d98909199794?alt=media&token=af5343ae-674c-4e4e-8afc-c1585ca799c8",
+      "title": "Pumpkin Pie",
+      "time": "60",
+      "description": "Perfect for desserts.",
+      "ingredient": "Homemade Pie Dough (full recipe makes 2 crusts: 1 for bottom, 1 for leaf decor)\negg wash: 1 large egg beaten with 1 Tablespoon milk\none 15oz can (about 2 cups; 450g) pumpkin puree*\n3 large eggs\n1 and 1/4 cups (250g) packed light or dark brown sugar\n1 Tablespoon (8g) cornstarch\n1/2 teaspoon salt\n1 and 1/2 teaspoons ground cinnamon\n1/2 teaspoon ground ginger*\n1/4 teaspoon ground or freshly grated nutmeg*\n1/8 teaspoon ground cloves*\n1/8 teaspoon fresh ground black pepper\n1 cup (240ml) heavy cream\n1/4 cup (60ml) milk (I use 1% – any is fine)",
+      "directions": "1. If garnishing with sugared cranberries, make those first: Place cranberries in a large bowl; set aside. In a medium saucepan, bring 1 cup of sugar and the water to a boil and whisk until the sugar has dissolved. Remove pan from the heat and allow to cool for 5 minutes. Pour sugar syrup over the cranberries and stir. Let the cranberries sit at room temperature or in the refrigerator for 6 hours or overnight (ideal). You’ll notice the sugar syrup is quite thick after this amount of time. Drain the cranberries from the syrup and pour 1 cup of sugar on top. Toss the cranberries, coating them all the way around. Pour the sugared cranberries on a parchment paper or silicone baking mat-lined baking sheet and let them dry for at least 2 hours at room temperature or in the refrigerator. You’ll have extra, but they’re great for eating or as garnish on other dishes. Cover tightly and store in the refrigerator for up to 3 days.\n2. Make the pie crust through step 5 according to my directions and video tutorial in my pie crust recipe. Or use your favorite pie dough or store-bought.\n3. Preheat oven to 375°F (190°C).\n4. Roll out the chilled pie crust: Remove 1 disc of pie dough from the refrigerator. On a lightly floured work surface, roll the dough out into a 12-inch circle. Make sure to turn the dough about a quarter turn after every few rolls. Carefully place the dough into a 9-inch deep dish pie dish. Tuck it in with your fingers, making sure it’s tightly pressed into the pie dish. 5. Fold any dough overhang back into the dish to form a thick rim around the edges. Crimp the edges with a fork or flute the edges with your fingers. Brush edges lightly with egg wash mixture.\n6. Par-bake the crust: Line the pie crust with parchment paper. Crunching up the parchment paper is helpful so that you can easily shape it into the crust. Fill with pie weights or dried beans. (Note that you will need at least 2 standard sets of pie weights to fit.) Make sure the weights/beans are evenly distributed around the pie dish. Par-bake the crust for 10 minutes. Carefully remove the parchment paper/pie weights. Prick the bottom of the crust all over with a fork to create steam vents and return crust (without weights) to the oven for 7-8 more minutes or until the bottom is *just* starting to brown. (Review this how to par-bake pie crust page if you need extra help with this par-baking step.)\n7. Make the pumpkin pie filling: Whisk the pumpkin, 3 eggs, and brown sugar together until combined. Add the cornstarch, salt, cinnamon, ginger, nutmeg, cloves, pepper, heavy cream, and milk. Vigorously whisk until everything is combined.\n8. Pour pumpkin pie filling into the warm crust. 9. Only fill the crust about 3/4 of the way up. (If using a deep dish pie dish as instructed, you should only have a little filling leftover. Use extra to make mini pies with leftover pie dough scraps if you’d like.) Bake the pie until the center is almost set, about 55-60 minutes give or take. 10. A small part of the center will be wobbly – that’s ok. After 25 minutes of baking, be sure to cover the edges of the crust with aluminum foil or use a pie crust shield to prevent the edges from getting too brown. Check for doneness at minute 50, and then 55, and then 60, etc.\n11. Once done, transfer the pie to a wire rack and allow to cool completely for at least 3 hours before garnishing and serving.\n12. Decorate with sugared cranberries and pie crust leaves (see note). You’ll definitely have leftover cranberries… they’re tasty for snacking. 13. Serve pie with whipped cream if desired.\n14. Cover leftovers tightly and store in the refrigerator for up to 5 days.",
+      "id": 46
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fsweet-almond-cake.jpg8fe7590b-c283-4efe-b2aa-24bb006ffe04?alt=media&token=9902b94b-f7ae-4983-9901-10ea378677f9",
+      "title": "Almond Cake",
+      "time": "40",
+      "description": "This is the easiest almond cake with just 4 main ingredients. ",
+      "ingredient": "1 1/2 cups almond flour, * measured correctly\n4 eggs, separated, room temperature\n1/2 cup granulated sugar\n1 Tbsp lemon zest, grated from 1 large lemon\n1/4 cup sliced almonds\nConfectioners sugar and lemon slices for garnish, optional",
+      "directions": "1. In a large mixing bowl, combine 4 egg yolks and 1/2 cup sugar. Beat with an electric hand mixer on high speed 3 minutes or until thick, creamy and lightened in color. Add 1 1/2 cups almond flour and 1 Tbsp lemon zest and use a spatula to fold and stir together until incorporated. Wash and dry attachments from the mixer. \n2. In a second large mixing bowl, add 4 egg whites and beat together until stiff peaks form (about 2 minutes). Fold the egg whites 1 heaping spoonful at a time into the almond batter, folding with each addition just until incorporated and scraping from the bottom of the bowl to ensure batter has an even consistency.\n3. Once all the egg whites are incorporated and batter is even in consistency (do not over-mix), transfer batter to the prepared baking pan and sprinkle the top with 1/4 cup sliced almonds. Bake at 350˚F for 30 minutes or until top is firm.\n4. Let cake rest in the pan 15 minutes then run a thin spatula around the sides and invert it onto your hand then place it right side up on the rack. Let cool to room temperature and garnish with powdered sugar and lemon slices if desired.",
+      "id": 47
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fcreamy-mashed-potatoes-toasty-kitchen-12-1.jpgdc4a041d-a96c-4f49-892e-8ce80ec70001?alt=media&token=be10cd0b-ce53-43ed-bcc6-64aa136ed1e8",
+      "title": "Mashed Potatoes",
+      "time": "20",
+      "description": "Easy, creamy, buttery, rich but not insanely so (we have Paris Mash for that). Serve with everything.",
+      "ingredient": "1.5 kg / 3 lb potatoes, peeled and cut into 2.5cm/1” cubes (Preferably Sebago, Russet or Maris Piper, Note 1)\n1 tbsp salt (for cooking)",
+      "directions": "1. Place in a large pot with 1 tbsp salt. Add water so it’s 10cm / 4” above potatoes.\n2. Bring to a boil over high heat then reduce heat so it’s simmering rapidly. Cook 15 minutes or until potatoes are very soft (jab with fork to test, they should fall apart).\n3. Drain well, return into pot. Leave for 1 minute, shaking pot every now and then, to encourage evaporation of water.\n4. Add Flavorings then mash well, using milk to make it looser if desired.\nDO NOT use: a beater, stick blender, food processor or blender. You can pulse with a stand mixer or handheld mixer but be cautious, stop as soon as it's creamy (potatoes will quickly go from perfect to gluey using appliances).\n5. Transfer to serving bowl, make pretty swirls across the top and drizzle over butter. Sprinkle with chives then serve!",
+      "id": 48
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2FIMG_1588-scaled.jpg982d2a7d-31d4-498c-8ac5-ba3179d1084b?alt=media&token=8a940d9d-063b-48d6-83da-f2d374282d71",
+      "title": "Mac and Cheese",
+      "time": "15",
+      "description": "Yummy and the best to have for a snack or meal.",
+      "ingredient": "1 (8 ounce) box elbow macaroni\n¼ cup butter\n¼ cup all-purpose flour\n½ teaspoon salt\nground black pepper to taste\n2 cups milk\n2 cups shredded Cheddar cheese",
+      "directions": "1. Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes.\n2. At the same time, melt butter in a saucepan over medium heat. Add flour, salt, and pepper and stir until smooth, about 5 minutes. Pour in milk slowly, while stirring continuously. Continue to cook and stir until mixture is smooth and bubbling, about 5 minutes, making sure the milk doesn't burn.\n3. Add Cheddar cheese and stir until melted, 2 to 4 minutes.\n4. Drain macaroni and fold into cheese sauce until coated.",
+      "id": 49
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fsugar-cookies-20.jpg84c02082-4163-41da-a02a-1178880f8157?alt=media&token=477225a1-5fe6-4a95-8448-e1861e45a65b",
+      "title": "Sugar Cookies",
+      "time": "20",
+      "description": "Satisfy your sweet tooth with this top-rated sugar cookie recipe.",
+      "ingredient": "2 ¾ cups all-purpose flour\n1 teaspoon baking soda\n\n½ teaspoon baking powder\n1 cup butter, softened\n1 ½ cups white sugar\n1 egg\n1 teaspoon vanilla extract",
+      "directions": "1. Preheat the oven to 375 degrees F (190 degrees C).\n2. Stir flour, baking soda, and baking powder together in a small bowl.\n3. Beat sugar and butter together in a large bowl with an electric mixer until smooth. Beat in egg and vanilla. Gradually blend in flour mixture. Roll dough into walnut-sized balls and place 2 inches apart onto ungreased baking sheets.\n4. Bake in the preheated oven until edges are golden, 8 to 10 minutes. Cool on the baking sheets briefly before removing to a wire rack to cool completely.",
+      "id": 50
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fvegetable-soup-7.jpg5a96c859-7259-4fc8-84ea-7f6edfd233b7?alt=media&token=f820a3f9-57fe-4d90-8177-5cffd004cc20",
+      "title": "Veggie Soup",
+      "time": "15",
+      "description": "This Vegetable Soup has become one of my most popular soup recipes and for good reason! It's healthy, it's comforting and 1,000 times better than what you'll get in a can! ",
+      "ingredient": "2 Tbsp olive oil\n1 1/2 cups chopped yellow onion (1 medium)\n2 cups peeled and chopped carrots (about 5)\n1 1/4 cups chopped celery (about 3)\n4 cloves garlic , minced\n4 (14.5 oz) cans low-sodium chicken broth or vegetable broth\n2 (14.5 oz) cans diced tomatoes (undrained)\n3 cups peeled and 1/2-inch thick diced potatoes (from about 3 medium)\n1/3 cup chopped fresh parsley\n2 bay leaves\n1/2 tsp dried thyme, or 1 Tbsp fresh thyme leaves\nSalt and freshly ground black pepper\n1 1/2 cups chopped frozen or fresh green beans\n1 1/4 cups frozen or fresh corn\n1 cup frozen or fresh peas",
+      "directions": "1. Heat olive oil in a large pot over medium-high heat. \n2. Add onions, carrots, and celery and saute 4 minutes then add garlic and saute 30 seconds longer.\n3. Add in broth, tomatoes, potatoes, parsley, bay leaves, thyme and season with salt and pepper to taste.*\n4. Bring to a boil, then add green beans. \n5. Reduce heat to medium-low, cover and simmer until potatoes are almost fully tender, about 20 - 30 minutes. \n6. Add corn and peas and cook 5 minutes longer. Serve warm.",
+      "id": 51
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fflan-2.jpg6a5471ef-4c2f-4a10-9f2b-86d1237dbcd1?alt=media&token=36426aeb-d3d8-497e-812b-5401e2e6e3bd",
+      "title": "Flan",
+      "time": "60",
+      "description": "You get a rich and creamy custard style dessert covered with a deeply flavorful caramel sauce.",
+      "ingredient": "3/4 cup (150g) granulated sugar\n1/4 cup + 1 Tbsp warm water\n1 (8 oz) pkg. cream cheese, well softened (see notes)\n2 Tbsp granulated sugar\n4 large eggs\n1 (14 oz) can sweetened condensed milk\n1 (12 oz) can evaporated milk\n2 tsp vanilla extract",
+      "directions": "1. Bring plenty of water to a boil in a pot or kettle to use as a water bath (the flan will be baked in a dish set in a roasting pan surrounded by the boiling water). Preheat oven to 350 degrees.\n2. For the caramel topping: have an ungreased 9-inch by 2-inch cake pan ready or a 2-quart round baking dish or souffle pan.\n3. In a medium saucepan whisk together 3/4 cup granulated sugar and 1/4 cup water. Set over medium heat, cook stirring constantly until sugar has dissolved and mixture begins to boil.\n4. Once boiling stop stirring and let cook until it's nearing just an amber color. Remove from heat, let rest 5 seconds then add remaining 1 Tbsp warm water (it will steam and sputter slightly so stand back!), whisk to blend.\n5. Immediately pour caramelized sugar into cake pan or 2-quart baking dish and carefully tilt in a circular motion to coat the entire surface of bottom of the pan (careful pan will be hot!). Set aside.\n6. For the flan custard mixture: in a large mixing bowl using an electric hand mixer blend together cream cheese and 2 Tbsp sugar just until smooth.\n7. Mix in eggs one at a time, mixing until just combined after each addition. Then mix in sweetened condensed milk, evaporated milk and vanilla extract.\n8. Pour milk mixture over caramel layer in cake pan. Set pan in a roasting pan large enough to fit with extra space surrounding. Pour in enough boiling water around cake pan to reach about halfway up the sides of the cake pan.\n9. Bake until nearly set (it should still wiggle just slightly when jiggled), about 50 - 60 minutes.**\n10. Carefully remove from water bath (roasting pan with water) and set on wire rack to cool for 1 hour. Transfer to fridge and let chill 4 hours.\n11. Run a sharp knife around the flan right up next to the pan, then place a large rimmed serving plate over the pan. While holding the plate in place, flip the flan to the opposite side and let it fall onto the plate.\n12. Slice and serve. Store in refrigerator.",
+      "id": 52
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fmango-cream-mochi1.jpg36356bba-5944-4f99-8b0f-b529d098e535?alt=media&token=f6efb5af-80f2-4f06-b89a-98572eee105f",
+      "title": "Mochi",
+      "time": "120",
+      "description": "Yummy and fun to make.",
+      "ingredient": "1 cup sweetened red bean paste\n1 cup glutinous rice flour\n1 teaspoon green tea powder (matcha)\n1 cup water\n¼ cup white sugar\n½ cup cornstarch, for rolling out the dough",
+      "directions": "1. Wrap red bean paste in aluminum foil and place in the freezer until solid, at least 1 hour.\n2. Mix glutinous rice flour and green tea powder thoroughly in a microwave-safe bowl. Stir in water, then sugar; mix until smooth.\n3. Cover the bowl with plastic wrap and microwave for 3 minutes 30 seconds.\n4. Meanwhile, remove red bean paste from the freezer and divide into 8 equal balls. Set aside.\n5. Remove rice flour mixture from the microwave. Stir and heat, covered, for another 15 to 30 seconds.\n6. Dust a work surface with cornstarch. Roll about 2 tablespoons of hot rice flour mixture into a ball. Flatten the ball and place one ball of frozen red bean paste in the center. Pinch and press the dough around the bean paste until completely covered. Sprinkle with additional cornstarch and place mochi, seam-side down, in a paper muffin liner to prevent sticking.\n7. Repeat Step 6 to make remaining mochi.",
+      "id": 53
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Ffettuccine-alfredo-6.jpgb27e8e41-db45-47e1-a08d-b25bf1ac579e?alt=media&token=30abcbe2-7d36-4502-ad56-74788a5dc35d",
+      "title": "Fettucine Alfredo",
+      "time": "30",
+      "description": "Rich and creamy Fettuccine Alfredo is one of the easiest pasta dishes to make. ",
+      "ingredient": "226 grams fettuccine – ½ pound\n6 cups water\n1 to 1.5 teaspoons salt or add as required\n3 to 4 tablespoons Butter – 30 grams, unsalted or salted\n1 cup whipping cream\n6 tablespoons vegetarian parmesan cheese – 50 grams\n¼ teaspoon black pepper or add as required\n1 dash grated nutmeg or ground nutmeg, add as required – optional\nsalt as required",
+      "directions": "1. Cook pasta according to package instructions or until the al dente. That means cooked through but with a slight bite. Boil fettuccine on medium to high heat.\n2. Drain the water, making sure to save and set aside about a ½ cup of the cooked pasta water. You might want to use a bit to thin out the alfredo sauce.\n3. Meanwhile when the pasta is cooking, begin to make the alfredo sauce. In a large, deep skillet melt salted or unsalted butter on low heat. If using salted butter you’ll want to add less salt to finish the dish.\n4. Once the butter has melted, add chopped garlic. Sauté for a few seconds until the raw aroma of garlic goes away. There is no need to brown the garlic.\n5. Add the whipping cream. Mix well with a wired whisk. Bring the cream to a gentle boil on low heat.\n6. With a whisk continuously stir as you bring the cream mixture to a low simmer on a low heat. Keep an eye on the cream to ensure it does not get burnt or brown.\n7. Once the cream begins to gently boil, further simmer for 1 to 2 minutes on low heat, until the cream thickens a bit.\n8. Add grated vegetarian parmesan cheese to the cream and mix well.",
+      "id": 54
     }
   ]
 }
