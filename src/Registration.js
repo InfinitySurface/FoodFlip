@@ -9,19 +9,19 @@ const Registration= () => {
         var pass = document.getElementById("pass");
         var email = document.getElementById("email");
     
-        if(first.value.length == 0) {
+        if(first.value.length === 0) {
             alert("Please enter first name.")
         }
-        else if(last.value.length == 0) {
+        else if(last.value.length === 0) {
             alert("Please enter last name.")
         }
-        else if(user.value.length == 0) {
+        else if(user.value.length === 0) {
             alert("Please enter username.")
         }
-        else if(pass.value.length == 0) {
+        else if(pass.value.length === 0) {
             alert("Please enter password.")
         }
-        else if(email.value.length == 0) {
+        else if(email.value.length === 0) {
             alert("Please enter email.")
         } else {
             localStorage.setItem('first', first.value);

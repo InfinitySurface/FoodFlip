@@ -63,7 +63,7 @@ const Create = () => {
         onChange={(e) => setDirections(e.target.value)}
       />
     
-      <button onClick={createRecipe}>Upload Image</button>
+      <button onClick={createRecipe}>Add Recipe</button>
       
     </div>
 

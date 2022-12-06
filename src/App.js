@@ -7,6 +7,7 @@ import Contact from './Contact';
 import About from './About';
 import Registration from './Registration';
 import Login from './Login'
+import Favorites from './Favorites';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom'; 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             <Route path="/create" element={<Create />} ></Route>
             <Route path="/contact" element={<Contact />} ></Route>
             <Route path="/about" element={<About />} ></Route>
+            <Route path="/favorites" element={<Favorites />} ></Route>
             <Route path="/registration" element={<Registration />} ></Route>
             <Route path='/recipes/:id' element={<RecipeDetails />}></Route>
             <Route path="/*" element={<NotFound />} ></Route>

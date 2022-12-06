@@ -1,0 +1,22 @@
+{
+  "favorites": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2F7-layer-dip-1-1.jpg97d311c1-a802-4b13-99b3-cd85dd6604c2?alt=media&token=1d6cc012-3ea9-4cc9-bc0f-9230bc145bf0",
+      "title": "7-Layer Dip",
+      "time": "15",
+      "description": "A crowd favorite. ",
+      "ingredient": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2F7-layer-dip-1-1.jpg97d311c1-a802-4b13-99b3-cd85dd6604c2?alt=media&token=1d6cc012-3ea9-4cc9-bc0f-9230bc145bf0",
+      "directions": "1. Place salsa in a sieve to drain any liquid (this keeps your dip from getting runny).\n2. Combine refried beans and milk (or you can use the liquid from the salsa if you prefer) until smooth. Spread in the bottom of a 9x13 pan.\n3. Combine cream cheese, sour cream and taco seasoning with a mixer on medium. Spread over refried beans\n4. Spoon guacamole over cream cheese and gently spread. Repeat with drained salsa.\n5. Top with cheese, olives/tomatoes and green onions.\n6. Chill 1 hour before serving. Serve with tortilla chips or crackers.\n",
+      "id": 17
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fberry-smoothie-06-2.webp1ed27929-155e-4ac1-933e-2b4c51726243?alt=media&token=0afec1ba-b8e4-416a-97ca-d59d176d93c3",
+      "title": "Very Berry Smoothie",
+      "time": "12",
+      "description": "Perfect breakfast that is filling and yummy.",
+      "ingredient": "https://firebasestorage.googleapis.com/v0/b/recipe-blog-b5a22.appspot.com/o/image%2Fberry-smoothie-06-2.webp1ed27929-155e-4ac1-933e-2b4c51726243?alt=media&token=0afec1ba-b8e4-416a-97ca-d59d176d93c3",
+      "directions": "1. Add all of the ingredients for one of the smoothies above to the jar of your blender.\n2. Place the lid on the blender and blend until smooth, about 1 minutes on medium to medium-high speed.\n",
+      "id": 30
+    }
+  ]
+}

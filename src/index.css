@@ -54,7 +54,7 @@
 .blog-details div {
   margin: 20px 0;
 }
-.blog-details button {
+.blog-details .delete-recipe {
   background: #f1356d;
   color: #fff;
   border: 0;
@@ -90,10 +90,13 @@
   display: block;
 }
 .create button {
-  background: #f1356d;
-  color: #fff;
-  border: 0;
-  padding: 8px;
-  border-radius: 8px;
-  cursor: pointer;
+    background-color: #B2AC88;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    width:50%;
+    margin: 10px auto;
+    color: white;
 }
+
+

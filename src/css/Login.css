@@ -8,22 +8,66 @@
     display: flex;
 }
 
+img{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+h3{
+    padding-left: 8px;
+    padding-top: 20px;
+}
+
 .login-left{
     height: auto;
     width: 50%;
-    
     align-content: center;
 }
+.left-content{
+    width:fit-content;
+    margin: 10% auto ;
+}
+
 .login-left form{
     display: flex;
     flex-direction: column;
-    width:70%;
+    margin: auto;
+    width:100%;
+    padding-top: 20px;
 }
+
+.login-button{
+    background-color: #B2AC88;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    width:50%;
+    margin: 10px auto;
+    color: white;
+}
+
 
 .login-right{
     background-color: #B2AC88;
     height: auto;
-    text-align:start;
-    width: 50%;
+    width: 50%;    
+}
+.right-content{
+    width:70%;
+    margin: 50% auto ;
+    color: white;
 }
 
+
+.right-content b{
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+.right-content text{
+    font-size: 14px;
+    font-weight:100;
+    color: white;
+}
