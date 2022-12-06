@@ -18,7 +18,7 @@ const Login = () => {
                     <input type="submit"></input>
                 </form>
                 Don't have an account? 
-                <Link to="create-account"> Create Account</Link>
+                <Link to="/registration"> Create Account</Link>
               
             </div>
             <div className="login-right">

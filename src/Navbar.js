@@ -22,8 +22,9 @@ const Navbar = () => {
             </button>
 	        <div id="navbarCollapse" class="collapse navbar-collapse justify-content-start">
                 <div class="navbar-nav">
+                    <Link to="/" class="nav-item nav-link">Home</Link> 
                     <Link to="/about" class="nav-item nav-link">About</Link> 
-                    <Link to="/about" class="nav-item nav-link">Contact</Link> 
+                    <Link to="/contact" class="nav-item nav-link">Contact</Link> 
                 </div>
                 <form class="navbar-form form-inline search-form">
                     <div class="input-group">
