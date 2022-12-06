@@ -1,4 +1,4 @@
-#### To run this app we used three split terminals
+# To run this app we used three split terminals
 
 ##### Commands
 
