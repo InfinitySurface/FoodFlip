@@ -1,3 +1,14 @@
+#### To run this app we used three split terminals
+
+##### Commands
+
+Terminal 1: npm start (It may be necessary to run “npm install”)
+
+Terminal 2: npx json-server --watch data/db.json --port 8000
+
+Terminal 3: npx json-server --watch data/favorites.json --port 8001
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
