@@ -1,6 +1,38 @@
 import './css/Login.css'
 
 const Registration= () => {
+
+    const createAccount = () => {
+        var first = document.getElementById("first");
+        var last = document.getElementById("last");
+        var user = document.getElementById("user");
+        var pass = document.getElementById("pass");
+        var email = document.getElementById("email");
+    
+        if(first.value.length == 0) {
+            alert("Please enter first name.")
+        }
+        else if(last.value.length == 0) {
+            alert("Please enter last name.")
+        }
+        else if(user.value.length == 0) {
+            alert("Please enter username.")
+        }
+        else if(pass.value.length == 0) {
+            alert("Please enter password.")
+        }
+        else if(email.value.length == 0) {
+            alert("Please enter email.")
+        } else {
+            localStorage.setItem('first', first.value);
+            localStorage.setItem('last', last.value);
+            localStorage.setItem('user', user.value);
+            localStorage.setItem('pass', pass.value);
+            localStorage.setItem('email', email.value);
+            alert("Your account has been successfully created.");
+            window.location = '/login';
+        }
+    };
     return <div>
         <div class="text-center">
                 <img src={require('./foodflip.ico')} alt="" height="200px"></img>
@@ -47,10 +79,8 @@ const Registration= () => {
 
                         <script src="function.js"></script>
                         <div class="text-center pt-1 mb-5 pb-1">
-                      <button class="btn btn-primary btn-block fa-md mb-3" onclick="register()" role="button">Submit</button>
+                      <button class="btn btn-primary btn-block fa-md mb-3" onClick={createAccount}>Submit</button>
                     </div>
-
-      
     </div>
         
 }

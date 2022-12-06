@@ -2,20 +2,34 @@ import { Link } from 'react-router-dom';
 import './css/Login.css'
 
 const Login = () => {
+    const login = () => {
+
+            var storedUser = localStorage.getItem('user');
+            var storedPass = localStorage.getItem('pass');
+        
+        
+            var userName = document.getElementById("user").value;
+            var passWord = document.getElementById("pass").value;
+        
+            if(userName == storedUser && passWord == storedPass){
+                alert('You have been logged in.');
+                window.location = '/';
+            } else {
+                alert('Error: cannot login.');
+            }
+        };
     return <div>
-      
         <div className="login-container">
             <div className="login-left">
                 <img src={require('./foodflip.ico')} alt="" height="200px"></img>
                 <h3>Welcome to Food<b>Flip</b></h3>
                 <form>
                     <label>Username</label>
-                    <input type="text" placeholder='Username...'/>
+                    <input id="user" class="form-control" type="text" placeholder="enter username..." name="user" required/>
 
                     <label>Password</label>
-                    <input type="password" placeholder='Password...'/>
-
-                    <input type="submit"></input>
+                    <input id="pass" class="form-control" type="password" placeholder="enter password..." name="pass" required/>
+                    <a class="btn btn-primary btn-block fa-md mb-3" onClick={login} role="button">Login</a>
                 </form>
                 Don't have an account? 
                 <Link to="/registration"> Create Account</Link>
