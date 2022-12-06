@@ -1,6 +1,6 @@
 # To run this app we used three split terminals
 
-##### Commands
+### Commands
 
 Terminal 1: npm start (It may be necessary to run “npm install”)
 
