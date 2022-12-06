@@ -51,13 +51,13 @@ const Create = () => {
         onChange={(e) => setDescription(e.target.value)}
       />
      <label>Ingredients</label>
-      <input 
+      <textarea 
         type="text"
         value={ingredient}
         onChange={(e) => setIngredient(e.target.value)}
       />
       <label>Directions</label>
-      <input 
+      <textarea
         type="text"
         value={directions}
         onChange={(e) => setDirections(e.target.value)}

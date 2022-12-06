@@ -24,10 +24,10 @@ const RecipeDetails = () => {
 
             <h2>{recipe.title}</h2>
             
-            <div id='recipe-time'>Time: {recipe.time} min</div>
-            <div id='recipe-description'>Description: {recipe.description}</div>
-            <div id='recipe-ingredients'>Ingredients: {recipe.ingredient}</div>
-            <div id='recipe-directions'>Directions: {recipe.directions}</div>
+            <div id='recipe-time'>Time: <pre>{recipe.time} min</pre></div>
+            <div id='recipe-description'>Description: <pre>{recipe.description}</pre></div>
+            <div id='recipe-ingredients'>Ingredients: <pre>{recipe.ingredient}</pre></div>
+            <div id='recipe-directions'>Directions: <pre>{recipe.directions}</pre></div>
             <button onClick={handleClick}>Delete</button>
       
         </div>

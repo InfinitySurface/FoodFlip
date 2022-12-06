@@ -33,9 +33,13 @@ const Navbar = () => {
                         </span>
                     </div>
                 </form>
+                
+                <div class="navbar-nav">
+                    <Link to="/create" class="nav-item nav-link">Add Recipe</Link>
+                </div>
                 <div class="navbar-nav ml-auto">
                     <div class="btn btn-default">
-                        <Link to="/login" class="btn btn-primary fa-md mb-1">Login</Link>
+                        <Link to="/login" class="nav-item nav-link">Login</Link>
                     </div>			
                 </div>
 	        </div>

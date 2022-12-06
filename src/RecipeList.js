@@ -9,7 +9,7 @@ const RecipeList = ({recipes, title}) => {
             {recipes.map(recipe => (
                 <div className="blog-preview" key={recipe.id}>
                     <Link to={`/recipes/${recipe.id}`}>
-                        <img src={recipe.url} className="recipe-list-image" alt="" width="340px" height="550px"/>
+                        <img src={recipe.url} className="recipe-list-image" alt="" width="300px" height="490px"/>
                         <h2>{recipe.title}</h2>
                     </Link>
                 </div>
